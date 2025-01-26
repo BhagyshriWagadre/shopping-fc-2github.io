@@ -1,0 +1,35 @@
+
+.header .navbar{index wala he ye
+       background: #333  !important;  
+}
+
+.header .navbar .navbar-brand{
+
+    color: aliceblue !important;
+}
+
+.header .navbar .nav-item .nav-link{
+     color:aliceblue;
+}
+
+.header marquee p {
+       display: inline-block;
+       margin-left:40px;
+}
+
+ .header .categories {
+        width: 300px;
+        border-radius: 10px;
+ }
+
+
+  .header .categories button {
+        margin: 10px; 0;  
+         padding: 10px 30%;
+  }
+   .header .categories button:hover {
+            transition: 1s all;
+           background: #333333 !important;
+           color:aliceblue !important;
+   }
+   
